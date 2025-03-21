@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Vinod Kumar!  
 
-<!--
-**GunagantiVinodKumar/GunagantiVinodKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Aspiring Software Developer** | Passionate about DSA & Web Development  
 
-Here are some ideas to get you started:
+##  Skills  
+- 💻 Languages: Java  
+- 🌐 Web Dev: HTML, CSS, JavaScript  
+- 🛠️ DSA: Linked Lists, Binary Search, Recursion 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects  
+
+##  Currently Learning  
+- Advanced DSA   
+- Web Development 
+
+# Connect with Me  
+- LinkedIn: www.linkedin.com/in/gunaganti-vinod-7265b0260
+
+- 
+  Let's build together! 
