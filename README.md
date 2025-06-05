@@ -14,7 +14,7 @@
 - Building a Positive Impactful project.
 - Exploring Depth and Breadth (DSA). 
 
-# Intrested to Connect ?  go a head : noProblem have a Goodday;   
+# Intrested to Connect ?  go a head : noProblem have a GoodDay;   
 - LinkedIn: www.linkedin.com/in/gunaganti-vinod-7265b0260
 
 # Description regarding my projects
