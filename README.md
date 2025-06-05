@@ -1,20 +1,29 @@
-# 👋 Hi, I'm Vinod Kumar!  
+• Hello, I'm Gunaganti vinod kumar,  
 
-🔹 **Aspiring Software Developer** | Passionate about DSA & Web Development  
 
 ##  Skills  
-- 💻 Languages: Java  
-- 🌐 Web Dev: HTML, CSS, JavaScript  
-- 🛠️ DSA: Linked Lists, Binary Search, Recursion 
+- Java  
+- Web Dev: HTML, CSS, JavaScript, React, SpringBoot, PostgresSQL, .
+- Good in DSA
 
-##  Projects  
+##  Projects (Description is at Bottom)
+- CivicLink (Smart governance Domain)
+- upcoming lets see ...
 
-##  Currently Learning  
-- Advanced DSA   
-- Web Development 
+##  Currently  
+- Building a Positive Impactful project.
+- Exploring Depth and Breadth (DSA). 
 
-# Connect with Me  
+# Intrested to Connect ?  go a head : noProblem have a Goodday;   
 - LinkedIn: www.linkedin.com/in/gunaganti-vinod-7265b0260
 
-- 
-  Let's build together! 
+# Description regarding my projects
+- CivicLink : its a Digital platform empowering villagers to report LocalIssues( garbageoverflow, damagedRoads, Power & Water issues and more...)
+              effectively and efficiently which can be resolved faster. (i will add more in future dont worry)
+
+
+@ Goals
+- Good passionate .
+
+---------------------
+  VALAR MORGULAHAS.
