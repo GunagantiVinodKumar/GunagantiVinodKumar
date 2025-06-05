@@ -22,8 +22,8 @@
               effectively and efficiently which can be resolved faster. (i will add more in future dont worry)
 
 
-@ Goals
-- Good passionate .
+@ Goals : work in mnc's.    
+@ Dream : wakeup eat progress sleep repeatPeacefully.  
 
 ---------------------
   --VALAR MORGULAHAS.
