@@ -19,10 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Vinod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunagantiVinodKumar&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GunagantiVinodKumar&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark" />
 ---
 
 ## 🔗 Featured Repos
