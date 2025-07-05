@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=GunagantiVinodKumar&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=GunagantiVinodKumar&color=green)
 
 ![GitHub followers](https://img.shields.io/github/followers/GunagantiVinodKumar?label=Follow&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/GunagantiVinodKumar?affiliations=OWNER%2CCOLLABORATOR&style=social)
