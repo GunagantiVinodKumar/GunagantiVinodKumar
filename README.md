@@ -27,4 +27,5 @@
 ## 🔗 Featured Repos
 
 - [civiclink-project](https://github.com/GunagantiVinodKumar/civiclink-project)
-- [GunagantiVinodKumar (Profile Repo)](https://github.com/GunagantiVinodKumar/GunagantiVinodKumar)
+- [articleAnalysis-project](https://github.com/GunagantiVinodKumar/ArticleAnalysis-project)
+
