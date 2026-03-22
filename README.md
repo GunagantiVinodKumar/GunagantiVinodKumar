@@ -1,8 +1,5 @@
 # Gunaganti Vinod Kumar
 
-![GitHub Followers](https://img.shields.io/github/followers/GunagantiVinodKumar?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/GunagantiVinodKumar?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 ---
 
 ## 👋 About Me
@@ -25,6 +22,14 @@ Machine Learning focused developer working on:
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📊 Metrics
 
