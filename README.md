@@ -9,7 +9,16 @@ Machine Learning focused developer working on:
 - Recommender Systems  
 - Real-world data-driven systems  
 
-> Core stack includes **Python, Java, JavaScript** (private + public work)
+> Core stack: **Python, Java, JavaScript**
+
+---
+
+## 🚀 Current Work
+
+**Basket Recommendation System (Farm to Feed)**
+- Purchase prediction (7 & 14 days)
+- Quantity forecasting
+- Reducing food waste using ML
 
 ---
 
@@ -25,9 +34,11 @@ Machine Learning focused developer working on:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity
 
-![snake](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GunagantiVinodKumar&theme=tokyonight)
 
 ---
 
@@ -37,25 +48,13 @@ Machine Learning focused developer working on:
 
 ---
 
-## 📈 Activity
+## 🐍 Contribution Snake
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GunagantiVinodKumar&theme=tokyonight)
-
----
-
-## 🚀 Current Work
-
-**Basket Recommendation System (Farm to Feed)**
-- Purchase prediction (7 & 14 days)
-- Quantity forecasting
-- Reducing food waste using ML
+![snake](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Featured Projects
 
-- [BasketRecommendation]
-- [civiclink-project]
-
+- [BasketRecommendation](https://github.com/GunagantiVinodKumar/BasketRecommendation)
+- [civiclink-project](https://github.com/GunagantiVinodKumar)
