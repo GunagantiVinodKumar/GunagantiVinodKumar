@@ -16,6 +16,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark" />
 ----
 
+## 📊 Metrics
+
+![Metrics](https://metrics.lecoq.io/GunagantiVinodKumar?template=classic&config.timezone=Asia%2FCalcutta)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
 ## 🐍 Contribution Snake
 
