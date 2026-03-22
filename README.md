@@ -26,7 +26,9 @@ Machine Learning focused developer working on:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunagantiVinodKumar&show_icons=true&theme=github_dark)
+## 📊 Metrics
+
+![Metrics](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/main/github-metrics.svg)
 
 ---
 
@@ -49,6 +51,6 @@ Machine Learning focused developer working on:
 
 ## 🔗 Featured Projects
 
-- [BasketRecommendation](https://github.com/GunagantiVinodKumar/BasketRecommendation)
-- [civiclink-project](#)
-- [articleAnalysis-project](#)
+- [BasketRecommendation]
+- [civiclink-project]
+
