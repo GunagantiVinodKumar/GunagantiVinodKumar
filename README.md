@@ -5,33 +5,50 @@
 
 ---
 
-## ⚙️ Tech Stack
-## 🛠 Skills
+## 👋 About Me
 
-![Skills](https://skillicons.dev/icons?i=python,java,react,postgres,git)
+Machine Learning focused developer working on:
+- Demand Forecasting  
+- Recommender Systems  
+- Real-world data-driven systems  
 
-----
+> Core stack includes **Python, Java, JavaScript** (private + public work)
+
+---
+
+## 🛠 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,java,javascript,react,mysql,git)
+
+---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark" />
-----
 
-## 📊 Metrics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark)
 
-![Metrics](https://metrics.lecoq.io/GunagantiVinodKumar?template=classic&config.timezone=Asia%2FCalcutta)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GunagantiVinodKumar&show_icons=true&theme=github_dark)
+
+---
+
+## 📈 Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
 
-## 👋 Intro
+![GitHub Streak](https://streak-stats.demolab.com?user=GunagantiVinodKumar&theme=tokyonight)
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Building+Real+World+Systems;Demand+Forecasting+%7C+Recommenders)
+---
 
-## 🐍 Contribution Snake
+## 🚀 Current Work
 
-![snake gif](https://github.com/GunagantiVinodKumar/GunagantiVinodKumar/blob/output/github-contribution-grid-snake.svg)
+**Basket Recommendation System (Farm to Feed)**
+- Purchase prediction (7 & 14 days)
+- Quantity forecasting
+- Reducing food waste using ML
 
-## 🔗 Featured Repos
+---
 
-- [civiclink-project]
-- [articleAnalysis-project]
+## 🔗 Featured Projects
 
+- [BasketRecommendation](https://github.com/GunagantiVinodKumar/BasketRecommendation)
+- [civiclink-project](#)
+- [articleAnalysis-project](#)
