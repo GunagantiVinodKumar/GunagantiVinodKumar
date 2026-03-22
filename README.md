@@ -21,6 +21,11 @@
 ![Metrics](https://metrics.lecoq.io/GunagantiVinodKumar?template=classic&config.timezone=Asia%2FCalcutta)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
+
+## 👋 Intro
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Machine+Learning+Engineer;Building+Real+World+Systems;Demand+Forecasting+%7C+Recommenders)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/GunagantiVinodKumar/GunagantiVinodKumar/blob/output/github-contribution-grid-snake.svg)
