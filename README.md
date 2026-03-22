@@ -20,12 +20,9 @@
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark" />
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GunagantiVinodKumar&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=tokyonight)
 ----
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
 
 ## 🔗 Featured Repos
 
