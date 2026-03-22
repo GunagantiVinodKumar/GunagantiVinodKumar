@@ -23,6 +23,9 @@
 ----
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/GunagantiVinodKumar/GunagantiVinodKumar/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Featured Repos
 
