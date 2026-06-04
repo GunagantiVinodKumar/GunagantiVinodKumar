@@ -30,31 +30,31 @@ Machine Learning focused developer working on:
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunagantiVinodKumar&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodGHB&layout=compact&theme=github_dark)
 
 ---
 
 ## 📈 Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GunagantiVinodKumar&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinodGHB&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GunagantiVinodKumar&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vinodGHB&theme=tokyonight)
 
 ---
 
 ## 📊 Metrics
 
-![Metrics](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/vinodGHB/vinodGHB/main/github-metrics.svg)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/GunagantiVinodKumar/GunagantiVinodKumar/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/vinodGHB/vinodGHB/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🔗 Featured Projects
 
-- [BasketRecommendation](https://github.com/GunagantiVinodKumar/BasketRecommendation)
-- [civiclink-project](https://github.com/GunagantiVinodKumar)
+- [BasketRecommendation](https://github.com/vinodGHB/BasketRecommendation)
+- [civiclink-project](https://github.com/vinodGHB)
